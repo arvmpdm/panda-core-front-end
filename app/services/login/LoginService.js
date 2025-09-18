@@ -44,7 +44,7 @@ class LoginService{
       console.log(params.body);
     }
 
-    fetch(`${configuration.api.pokemon}${url}`, params)
+    fetch(`${configuration.api.host}${url}`, params)
     .then((response) => {
       if(debug){
         console.log("Invoke Response => ", response );

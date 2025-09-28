@@ -1,6 +1,6 @@
 # Creacion App Con Router: 
 
-- [ ] Crea una fomra de Hacer SPA's
+- [x ] Crea una fomra de Hacer SPA's
 - [ ] Poder navegar entre paginas con el boton de atras
 - [ ] Crear componentes Link pra hacerlo Declarativo
 - [ ] Crear Componente Ruta por defecto
